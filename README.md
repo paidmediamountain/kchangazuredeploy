@@ -31,7 +31,7 @@
 | **Create new Function Apps from PyCharm** | | ✅ |
 | **Auto-fetch apps from Azure CLI** | | ✅ |
 
-**Pro:** $9 one-time &nbsp;·&nbsp; or $5/month subscription &nbsp;·&nbsp; 30-day free trial included
+**Pro:** $9 one-time purchase — yours forever &nbsp;\;&nbsp; 30-day free trial included
 
 ---
 
